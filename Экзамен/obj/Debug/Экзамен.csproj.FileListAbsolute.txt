@@ -1,0 +1,11 @@
+D:\bin\student\yakovlev\Экзамен\Экзамен\bin\Debug\Экзамен.exe.config
+D:\bin\student\yakovlev\Экзамен\Экзамен\bin\Debug\Экзамен.exe
+D:\bin\student\yakovlev\Экзамен\Экзамен\bin\Debug\Экзамен.pdb
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.csprojResolveAssemblyReference.cache
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.Form1.resources
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.Properties.Resources.resources
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.GenerateResource.cache
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.CoreCompileInputs.cache
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.exe
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.pdb
+D:\bin\student\yakovlev\Экзамен\Экзамен\obj\Debug\Экзамен.Заказчик.resources
