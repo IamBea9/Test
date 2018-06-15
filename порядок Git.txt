@@ -1,0 +1,26 @@
+Создание:
+
+git config --global user.name "Vlad"
+git config --global user.email "mr.yako@mail.ru"
+cd /диск/.../.../
+git init
+git add .
+git commit -m "Комментарий"
+git remote add 'Имя' 'Адрес'
+git push -u 'Имя' master
+
+
+Обновление данных на сатйе:
+
+git add .
+git commit -m "Комментарий"
+(git remote add 'Имя' 'Адрес')
+git push -u 'Имя' master
+
+
+
+
+
+Дополнительно: 
+
+git config --global http.sslVerify false  -  отключение проверки сертификата SSL
